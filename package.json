@@ -10,5 +10,13 @@
   "license": "MIT",
   "devDependencies": {
     "react": "^16.6.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bukharim96/devigram-icons.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bukharim96/devigram-icons/issues"
+  },
+  "homepage": "https://github.com/bukharim96/devigram-icons#readme"
 }
