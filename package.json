@@ -1,0 +1,14 @@
+{
+  "name": "devigram-icons",
+  "version": "0.1.0",
+  "description": "Devigram icons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bukharim96",
+  "license": "MIT",
+  "devDependencies": {
+    "react": "^16.6.3"
+  }
+}
