@@ -1,48 +1,46 @@
-module.exports = {
-  ArrowLeftIcon: require('./src/ArrowLeftIcon'),
-  ArrowRightIcon: require('./src/ArrowRightIcon'),
-  CalenderIcon: require('./src/CalenderIcon'),
-  ChevronDownIcon: require('./src/ChevronDownIcon'),
-  ChevronRightIcon: require('./src/ChevronRightIcon'),
-  CloseCircleIcon: require('./src/CloseCircleIcon'),
-  CloseIcon: require('./src/CloseIcon'),
-  CommentIcon: require('./src/CommentIcon'),
-  ComposeMessageIcon: require('./src/ComposeMessageIcon'),
-  CreateListIcon: require('./src/CreateListIcon'),
-  EmojiIcon: require('./src/EmojiIcon'),
-  FullscreenIcon: require('./src/FullscreenIcon'),
-  GeoIcon: require('./src/GeoIcon'),
-  GifIcon: require('./src/GifIcon'),
-  GifVideoIcon: require('./src/GifVideoIcon'),
-  HomeIcon: require('./src/HomeIcon'),
-  ImageIcon: require('./src/ImageIcon'),
-  InfoCircleIcon: require('./src/InfoCircleIcon'),
-  LikeIcon: require('./src/LikeIcon'),
-  LinkIcon: require('./src/LinkIcon'),
-  LinkPlaceholderIcon: require('./src/LinkPlaceholderIcon'),
-  MessagesIcon: require('./src/MessagesIcon'),
-  MoreIcon: require('./src/MoreIcon'),
-  MuteIcon: require('./src/MuteIcon'),
-  NotificationsIcon: require('./src/NotificationsIcon'),
-  NotifyTweet: require('./src/NotifyTweet'),
-  OptionsIcon: require('./src/OptionsIcon'),
-  PauseIcon: require('./src/PauseIcon'),
-  PinnedTweetIcon: require('./src/PinnedTweetIcon'),
-  PollIcon: require('./src/PollIcon'),
-  ProfileIcon: require('./src/ProfileIcon'),
-  PromotedIcon: require('./src/PromotedIcon'),
-  ProtectedAccountIcon: require('./src/ProtectedAccountIcon'),
-  ReplyIcon: require('./src/ReplyIcon'),
-  RetryIcon: require('./src/RetryIcon'),
-  RetweetIcon: require('./src/RetweetIcon'),
-  SearchIcon: require('./src/SearchIcon'),
-  SendIcon: require('./src/SendIcon'),
-  SettingsIcon: require('./src/SettingsIcon'),
-  SubscribedToTweets: require('./src/SubscribedToTweets'),
-  TickIcon: require('./src/TickIcon'),
-  TweetIcon: require('./src/TweetIcon'),
-  TwitterLogoIcon: require('./src/TwitterLogoIcon'),
-  VerifiedIcon: require('./src/VerifiedIcon'),
-  VolumeIcon: require('./src/VolumeIcon'),
-  WhoToFollowIcon: require('./src/WhoToFollowIcon')
-}
+export { default as ArrowLeftIcon } from './src/ArrowLeftIcon'
+export { default as ArrowRightIcon } from './src/ArrowRightIcon'
+export { default as CalenderIcon } from './src/CalenderIcon'
+export { default as ChevronDownIcon } from './src/ChevronDownIcon'
+export { default as ChevronRightIcon } from './src/ChevronRightIcon'
+export { default as CloseCircleIcon } from './src/CloseCircleIcon'
+export { default as CloseIcon } from './src/CloseIcon'
+export { default as CommentIcon } from './src/CommentIcon'
+export { default as ComposeMessageIcon } from './src/ComposeMessageIcon'
+export { default as CreateListIcon } from './src/CreateListIcon'
+export { default as EmojiIcon } from './src/EmojiIcon'
+export { default as FullscreenIcon } from './src/FullscreenIcon'
+export { default as GeoIcon } from './src/GeoIcon'
+export { default as GifIcon } from './src/GifIcon'
+export { default as GifVideoIcon } from './src/GifVideoIcon'
+export { default as HomeIcon } from './src/HomeIcon'
+export { default as ImageIcon } from './src/ImageIcon'
+export { default as InfoCircleIcon } from './src/InfoCircleIcon'
+export { default as LikeIcon } from './src/LikeIcon'
+export { default as LinkIcon } from './src/LinkIcon'
+export { default as LinkPlaceholderIcon } from './src/LinkPlaceholderIcon'
+export { default as MessagesIcon } from './src/MessagesIcon'
+export { default as MoreIcon } from './src/MoreIcon'
+export { default as MuteIcon } from './src/MuteIcon'
+export { default as NotificationsIcon } from './src/NotificationsIcon'
+export { default as NotifyTweet } from './src/NotifyTweet'
+export { default as OptionsIcon } from './src/OptionsIcon'
+export { default as PauseIcon } from './src/PauseIcon'
+export { default as PinnedTweetIcon } from './src/PinnedTweetIcon'
+export { default as PollIcon } from './src/PollIcon'
+export { default as ProfileIcon } from './src/ProfileIcon'
+export { default as PromotedIcon } from './src/PromotedIcon'
+export { default as ProtectedAccountIcon } from './src/ProtectedAccountIcon'
+export { default as ReplyIcon } from './src/ReplyIcon'
+export { default as RetryIcon } from './src/RetryIcon'
+export { default as RetweetIcon } from './src/RetweetIcon'
+export { default as SearchIcon } from './src/SearchIcon'
+export { default as SendIcon } from './src/SendIcon'
+export { default as SettingsIcon } from './src/SettingsIcon'
+export { default as SubscribedToTweets } from './src/SubscribedToTweets'
+export { default as TickIcon } from './src/TickIcon'
+export { default as TweetIcon } from './src/TweetIcon'
+export { default as TwitterLogoIcon } from './src/TwitterLogoIcon'
+export { default as VerifiedIcon } from './src/VerifiedIcon'
+export { default as VolumeIcon } from './src/VolumeIcon'
+export { default as WhoToFollowIcon } from './src/WhoToFollowIcon'
